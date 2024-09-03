@@ -124,7 +124,7 @@ function Projects() {
               features={featuresWithStyle([
                 "Increased user engagement by 25%",
               ])}
-              description="a platform where aspiring teachers can get contacted with the students who are in need of tuition teacher for the subject which they are weak at."
+              description="A Platform Where Aspiring Teachers Can Get Contacted With The Students Who Are In Need Of Tuition Teacher For The Subject Which They Are Weak At."
               link="https://github.com/anubhav7755/Your-Tuition-Teacher.git"
               linkText="View Project"
             />
