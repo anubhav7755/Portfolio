@@ -53,7 +53,7 @@ function Projects() {
               link="https://github.com/nishitsaha52/CommuteX.git"
               linkText="View Project"
             />
-          </Col>  */}
+          </Col>  */ }
 
           <Col md={4} className="project-card">
             <ProjectCard
