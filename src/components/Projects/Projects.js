@@ -95,7 +95,7 @@ function Projects() {
                 "Increased notice retrieval speed by 15%"
               ])}
               description="An online notice board for adding, updating, and deleting notices."
-              link="https://github.com/nishitsaha52/Online-Notice-Board.git"
+              link="https://github.com/anubhav7755/Online-Notice-Board.git"
               linkText="View Project"
             />
           </Col>
