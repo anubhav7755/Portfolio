@@ -89,7 +89,7 @@ function Projects() {
             <ProjectCard
               imgPath={pro3}
               title={<span style={titleStyle}>Online Notice Board</span>}
-              duration={<span style={durationStyle}>July 2021 - November 2021</span>}
+              duration={<span style={durationStyle}>July 2023 - November 2023</span>}
               features={featuresWithStyle([
                 "Improved notice management efficiency by 20%",
                 "Increased notice retrieval speed by 15%"
