@@ -3,6 +3,7 @@ import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import pro1 from "../../Assets/Projects/pro1.jpg";
+import pro2 from "../../Assets/Projects/pro2.jpg";
 import pro6 from "../../Assets/Projects/pro6.png";
 import pro3 from "../../Assets/Projects/pro3.jpg";
 import pro4 from "../../Assets/Projects/pro4.png";
@@ -41,7 +42,7 @@ function Projects() {
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
        { /*   <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={pro1}
+              imgPath={pro7}
               title={<span style={titleStyle}>Smart Commute Assistance App</span>}
               duration={<span style={durationStyle}>July 2023 - November 2023</span>}
               features={featuresWithStyle([
