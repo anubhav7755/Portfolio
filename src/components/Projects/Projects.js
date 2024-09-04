@@ -3,11 +3,12 @@ import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import pro1 from "../../Assets/Projects/pro1.jpg";
-import pro2 from "../../Assets/Projects/pro2.jpg";
+import pro2 from "../../Assets/Projects/pro2.png";
 import pro6 from "../../Assets/Projects/pro6.png";
 import pro3 from "../../Assets/Projects/pro3.jpg";
 import pro4 from "../../Assets/Projects/pro4.png";
 import pro5 from "../../Assets/Projects/pro5.png";
+import pro7 from "../../Assets/Projects/pro7.png";
 
 function Projects() {
   const titleStyle = {
