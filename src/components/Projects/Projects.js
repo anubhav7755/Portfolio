@@ -53,7 +53,7 @@ function Projects() {
               link="https://github.com/nishitsaha52/CommuteX.git"
               linkText="View Project"
             />
-          </Col>
+          </Col>  */}
 
           <Col md={4} className="project-card">
             <ProjectCard
@@ -65,7 +65,7 @@ function Projects() {
                 "Optimized database queries by 25%"
               ])}
               description="A portal for checking train times, seat availability, booking tickets, and managing train details."
-              link="https://github.com/nishitsaha52/Railway-Reservation.git"
+              link="https://github.com/anubhav7755/Railway-Reservation.git"
               linkText="View Project"
             />
           </Col>
@@ -74,13 +74,13 @@ function Projects() {
             <ProjectCard
               imgPath={pro2}
               title={<span style={titleStyle}>Online Examination Portal</span>}
-              duration={<span style={durationStyle}>December 2021 - May 2022</span>}
+              duration={<span style={durationStyle}>December 2022 - May 2023</span>}
               features={featuresWithStyle([
                 "Streamlined exam administration for over 100 users",
                 "Reduced server load by 20%"
               ])}
               description="An examination portal for adding exam questions, publishing results, and facilitating user exam-taking."
-              link="https://github.com/nishitsaha52/Online-Exam-Portal.git"
+              link="https://github.com/anubhav7755/Online-Exam-Portal.git"
               linkText="View Project"
             />
           </Col>
@@ -111,10 +111,10 @@ function Projects() {
                 "Increased user goal completion rates by 20%"
               ])}
               description="A user-friendly Next.js based web app aiding progress tracking, goal management, and efficient navigation."
-              link="https://github.com/nishitsaha52/Tracker.git"
+              link="https://github.com/anubhav7755/Fitness-Tracker.git"
               linkText="View Project"
             />
-          </Col>  */}
+          </Col>  
 
           <Col md={4} className="project-card">
             <ProjectCard
