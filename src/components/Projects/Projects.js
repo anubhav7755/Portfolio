@@ -4,10 +4,10 @@ import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import pro1 from "../../Assets/Projects/pro1.jpg";
 import pro2 from "../../Assets/Projects/pro2.png";
-import pro6 from "../../Assets/Projects/pro6.png";
-import pro3 from "../../Assets/Projects/pro3.jpg";
-import pro4 from "../../Assets/Projects/pro4.png";
+import pro3 from "../../Assets/Projects/pro3.png";
+import pro4 from "../../Assets/Projects/pro4.jpg";
 import pro5 from "../../Assets/Projects/pro5.png";
+import pro6 from "../../Assets/Projects/pro6.png";
 import pro7 from "../../Assets/Projects/pro7.png";
 
 function Projects() {
