@@ -41,21 +41,20 @@ function Projects() {
           Here are a few projects I've worked on recently.
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
-       { /*   <Col md={4} className="project-card">
+          <Col md={4} className="project-card">
             <ProjectCard
               imgPath={pro7}
-              title={<span style={titleStyle}>Smart Commute Assistance App</span>}
-              duration={<span style={durationStyle}>July 2023 - November 2023</span>}
+              title={<span style={titleStyle}>AI Chatbot</span>}
+              duration={<span style={durationStyle}>Januaryy 2024 - June 2023</span>}
               features={featuresWithStyle([
-                "Enhanced route accuracy by 15%",
-                "Integrated Mapbox, Google, and OpenWeather APIs",
-                "Reduced API response time by 20%"
+                "Increased user engagement by 25%",
+                "Optimised chatbot response time by 30%"
               ])}
-              description="A comprehensive commute assistance app featuring route display, points of interest, weather, and AQI information."
-              link="https://github.com/nishitsaha52/CommuteX.git"
+              description="An AI chatbot with image URL identification, text-to-speech, and speech-to-text features, integrated with Google and GitHub logins"
+              link="https://github.com/anubhav7755/AI-Chatbot.git"
               linkText="View Project"
             />
-          </Col>  */ }
+          </Col>  
 
           <Col md={4} className="project-card">
             <ProjectCard
